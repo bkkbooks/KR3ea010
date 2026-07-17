@@ -908,6 +908,7 @@ markers:
   - {type: punctuation, offset: 1881, content: 。, id: KR3ea010_jc_006-bkkpn405}
   - {type: 'tls:seg', offset: 1881, content: '', id: KR3ea010_jc_006-d8.d2.p56s29}
   - {type: punctuation, offset: 1881, content: (, id: KR3ea010_jc_006-bkkpn406}
+  - {type: voice, offset: 1881, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1883, content: ), id: KR3ea010_jc_006-bkkpn407}
   - {type: punctuation, offset: 1888, content: 。, id: KR3ea010_jc_006-bkkpn408}
   - {type: 'tls:seg', offset: 1888, content: '', id: KR3ea010_jc_006-d8.d2.p56s30}
@@ -7550,6 +7551,7 @@ markers:
   - {type: punctuation, offset: 15513, content: 。, id: KR3ea010_jc_006-bkkpn3426}
   - {type: 'tls:seg', offset: 15513, content: '', id: KR3ea010_jc_006-d8.d8.p16s7}
   - {type: punctuation, offset: 15516, content: (, id: KR3ea010_jc_006-bkkpn3427}
+  - {type: voice, offset: 15516, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 15518, content: ), id: KR3ea010_jc_006-bkkpn3428}
   - {type: punctuation, offset: 15523, content: 。, id: KR3ea010_jc_006-bkkpn3429}
   - {type: 'tls:seg', offset: 15523, content: '', id: KR3ea010_jc_006-d8.d8.p16s8}
@@ -10525,6 +10527,7 @@ markers:
   - {type: punctuation, offset: 21637, content: 。, id: KR3ea010_jc_006-bkkpn4771}
   - {type: 'tls:seg', offset: 21637, content: '', id: KR3ea010_jc_006-d8.d11.p32s23}
   - {type: punctuation, offset: 21637, content: (, id: KR3ea010_jc_006-bkkpn4772}
+  - {type: voice, offset: 21637, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 21639, content: ), id: KR3ea010_jc_006-bkkpn4773}
   - {type: substitution, offset: 21642, original: 䯊, replacement: 髂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-10840}}
   - {type: punctuation, offset: 21643, content: 。, id: KR3ea010_jc_006-bkkpn4774}
@@ -10909,4 +10912,4 @@ markers:
   - {type: punctuation, offset: 22410, content: 。, id: KR3ea010_jc_006-bkkpn4938}
   - {type: xml-element, offset: 22410, content: '', id: KR3ea010_jc_006-d8.d11p64_end, name: p, role: close, attrs: {'xml:id': KR3ea010_jc_006-d8.d11p64}}
   back: []
-hash: sha256:582146c067f94e52519293e6aa9d805e47d5f16ad4409c33c343a8c5851fe892
+hash: sha256:c19043446b5e66becb3556688327c5f7bb91f3faf13d39cedf011f5c01c680bd
