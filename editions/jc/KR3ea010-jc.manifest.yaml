@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ea010_000-jc.yaml, hash: 'sha256:d0e2770bfa5f9297ad391f6662b5b98a168583b26487909d24fb729119949425'}
+  - {seq: 0, filename: KR3ea010_000-jc.yaml, hash: 'sha256:568e3ac76b09d6239cf632e9afd0066156e0cef53dda16d4e0ea09bd458efb86'}
   - {seq: 1, filename: KR3ea010_001-jc.yaml, hash: 'sha256:cb58cf41fec38ad3fd138477f2d1d4b0548ca1da60dcf12a9c65b6c4d9ce4985'}
   - {seq: 2, filename: KR3ea010_002-jc.yaml, hash: 'sha256:a5268fdbf86cc77e85452310b01f69b9fb6cbce9ca37841fa84ec6e1214aa39d'}
   - {seq: 3, filename: KR3ea010_003-jc.yaml, hash: 'sha256:6ef5d3748e7226a9ce609249c8682f46f47a1c52ae164b0aa7459715a38ee574'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 7, filename: KR3ea010_007-jc.yaml, hash: 'sha256:690ed3e216d019e2d4a34ba031ffbf6a26033eaae06ba10d704cae9b8f9523df'}
   - {seq: 8, filename: KR3ea010_008-jc.yaml, hash: 'sha256:975c0966f98cd8a4ae8c878e19ae1817b50ef4f82a708b05cdce2ea18787c277'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea010_000-jc.markers.yaml, hash: 'sha256:717b2a90e469283a4448cf6c0918ef54870ccbb91ede4d00815842a108c65bad'}
+  - {seq: 0, role: markers, filename: assets/KR3ea010_000-jc.markers.yaml, hash: 'sha256:56115ae2e9d7b9b9ca5e47a5ff59226cda8590b5990f235179094e6805876935'}
   - {seq: 1, role: markers, filename: assets/KR3ea010_001-jc.markers.yaml, hash: 'sha256:a7cc9a9214c62b5fef978c7591f7c66ec864dc14a3ca82516ff2c38130606eac'}
   - {seq: 2, role: markers, filename: assets/KR3ea010_002-jc.markers.yaml, hash: 'sha256:3765521751d9394dc74abfd50849f27bba88878e113274aec5a1788e9bf36c7f'}
   - {seq: 3, role: markers, filename: assets/KR3ea010_003-jc.markers.yaml, hash: 'sha256:6bb0625cc7b46b579f30fdc7b4deb8676d74cc380ea4d7e43d7a5045d0999e98'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea010_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 417
   label: 序
@@ -847,4 +847,4 @@ table_of_contents:
   label: 解精微論篇第七十二
   type: section
   level: 2
-hash: sha256:00fc80fcb6e5a04cd55dd8f056c3ef661c2f5d01aa171b38e01d85517fc78318
+hash: sha256:94a20fe72f63a4ba6d5e5433c65e0081cdbf6318a5ac338e831313c1f0858b55
